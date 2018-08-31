@@ -1,0 +1,11 @@
+C:\Users\Your Butt\workspace\csharp\exercises\interfaces\obj\Debug\netcoreapp2.1\interfaces.csprojAssemblyReference.cache
+C:\Users\Your Butt\workspace\csharp\exercises\interfaces\obj\Debug\netcoreapp2.1\interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Your Butt\workspace\csharp\exercises\interfaces\obj\Debug\netcoreapp2.1\interfaces.AssemblyInfoInputs.cache
+C:\Users\Your Butt\workspace\csharp\exercises\interfaces\obj\Debug\netcoreapp2.1\interfaces.AssemblyInfo.cs
+C:\Users\Your Butt\workspace\csharp\exercises\interfaces\bin\Debug\netcoreapp2.1\interfaces.deps.json
+C:\Users\Your Butt\workspace\csharp\exercises\interfaces\bin\Debug\netcoreapp2.1\interfaces.runtimeconfig.json
+C:\Users\Your Butt\workspace\csharp\exercises\interfaces\bin\Debug\netcoreapp2.1\interfaces.runtimeconfig.dev.json
+C:\Users\Your Butt\workspace\csharp\exercises\interfaces\bin\Debug\netcoreapp2.1\interfaces.dll
+C:\Users\Your Butt\workspace\csharp\exercises\interfaces\bin\Debug\netcoreapp2.1\interfaces.pdb
+C:\Users\Your Butt\workspace\csharp\exercises\interfaces\obj\Debug\netcoreapp2.1\interfaces.dll
+C:\Users\Your Butt\workspace\csharp\exercises\interfaces\obj\Debug\netcoreapp2.1\interfaces.pdb
